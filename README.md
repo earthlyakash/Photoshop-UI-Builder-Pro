@@ -1,5 +1,16 @@
-# Photoshop-UI-Builder-Pro
-A standalone No-Code visual node-based desktop application to design and generate Adobe Photoshop JSX UI scripts
+<div align="center">
+  <h1>🎨 Photoshop UI Builder - Ultimate Pro Studio</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" />
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
+    <img src="https://img.shields.io/badge/JavaScript_JSX-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JSX" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  </p>
+</div>
+
+> A powerful, standalone desktop application that revolutionizes how developers create UIs for Adobe Photoshop scripts. 
 
 Say goodbye to manually writing tedious UI code. This tool provides a **No-Code, drag-and-drop interface** with a dual-view architecture (Visual Canvas + Node System) to instantly design and export complex `.jsx` scripts. 
 
@@ -8,7 +19,7 @@ Say goodbye to manually writing tedious UI code. This tool provides a **No-Code,
 ## 🚀 Download & Run (For Windows Users)
 You do **not** need to install Python or any dependencies to use this software!
 
-1. Go to the **[Releases](#)** tab of this repository. *[(Add your release link here)](https://github.com/earthlyakash/Photoshop-UI-Builder-Pro.git)*
+1. Go to the **[Releases](#)** tab of this repository. *(Add your release link here)*
 2. Download the `PhotoshopGUI_Gen_NodeBase.exe` file.
 3. Double-click the `.exe` file to launch the studio instantly.
 
