@@ -70,3 +70,6 @@ If you want to modify the source code or run the raw script:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/earthlyakash/photoshop-ui-builder-pro.git](https://github.com/earthlyakash/photoshop-ui-builder-pro.git)
+
+Developed by | Akash Kumar
+📧 earthlyakash@gmail.com | Version 1.0.0
