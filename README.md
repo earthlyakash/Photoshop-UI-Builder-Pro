@@ -1,10 +1,6 @@
 # Photoshop-UI-Builder-Pro
 A standalone No-Code visual node-based desktop application to design and generate Adobe Photoshop JSX UI scripts
 
-# 🎨 Photoshop UI Builder - Ultimate Pro Studio
-
-> A powerful, standalone desktop application that revolutionizes how developers create UIs for Adobe Photoshop scripts. 
-
 Say goodbye to manually writing tedious UI code. This tool provides a **No-Code, drag-and-drop interface** with a dual-view architecture (Visual Canvas + Node System) to instantly design and export complex `.jsx` scripts. 
 
 ---
