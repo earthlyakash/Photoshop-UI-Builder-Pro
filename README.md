@@ -8,7 +8,7 @@ Say goodbye to manually writing tedious UI code. This tool provides a **No-Code,
 ## 🚀 Download & Run (For Windows Users)
 You do **not** need to install Python or any dependencies to use this software!
 
-1. Go to the **[Releases](#)** tab of this repository. *(Add your release link here)*
+1. Go to the **[Releases](#)** tab of this repository. *[(Add your release link here)](https://github.com/earthlyakash/Photoshop-UI-Builder-Pro.git)*
 2. Download the `PhotoshopGUI_Gen_NodeBase.exe` file.
 3. Double-click the `.exe` file to launch the studio instantly.
 
